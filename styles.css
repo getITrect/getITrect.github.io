@@ -145,7 +145,6 @@ nav a:hover {
 .about_right ul {
   text-align: right;
   list-style-position: inside; /* Keeps bullets next to the text on the right */
-   width: fit-content;
   margin-left: auto;
   margin-right: 0;
 }
