@@ -137,12 +137,6 @@ nav a:hover {
   text-align: right;
 }
 
-.about_right p {
-  color: #a1a1aa;
-  max-width: 700px;
-  text-align: right;
-}
-
 /* Footer */
 .footer {
   border-top: 1px solid #1f1f23;
