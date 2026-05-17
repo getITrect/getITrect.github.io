@@ -136,6 +136,9 @@ nav a:hover {
   font-size: 2rem;
   text-align: right;
 }
+section.about_right.container {
+  text-align: right;
+}
 
 /* Footer */
 .footer {
