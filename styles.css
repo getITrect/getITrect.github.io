@@ -137,6 +137,11 @@ nav a:hover {
   text-align: right;
 }
 
+.about_right p {
+  color: #a1a1aa;
+  max-width: 700px;
+}
+
 .about_right ul {
   text-align: right;
   list-style-position: inside; /* Keeps bullets next to the text on the right */
